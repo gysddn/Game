@@ -15,9 +15,9 @@ Just clone the repository to directory where you want it to be installed:
 	$ git clone https://github.com/gysddn/Game
 
 
-## Uploading the Arduino
+## Uploading to the Arduino
 
-Cd into directory where you installed Game and run:
+Cd into directory where you installed the Game and run:
 
 	$ cd ~/your/Game/directory
 	$ make run
