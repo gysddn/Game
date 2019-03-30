@@ -11,7 +11,6 @@ fine.
 
 Just clone the repository to directory where you want it to be installed:
 
-	$ cd ~/some/directory/path
 	$ git clone https://github.com/gysddn/Game
 
 
@@ -19,7 +18,7 @@ Just clone the repository to directory where you want it to be installed:
 
 Cd into directory where you installed the Game and run:
 
-	$ cd ~/your/Game/directory
+	$ cd Game
 	$ make run
 
 
